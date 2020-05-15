@@ -1,0 +1,2 @@
+final list:
+book{ID=34, name=khuê, price=30, genre=kinh dị, author= khuê}

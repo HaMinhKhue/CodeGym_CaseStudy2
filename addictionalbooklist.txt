@@ -1,0 +1,14 @@
+3,Đại Nam Thực Lục,    450,history
+2      ,Binh Pháp Tôn Tử, 550,     history-politics
+4,Hãy Trả Lời Em Tại Sao,   400,science
+7, Liêu Trai Chí Dị, 800,
+8, An Nam Chí Lược, 750, history
+12, Lam Sơn Thực Lục, 250, history
+9, Truyện cổ Bồ Đào Nha, 300, folktale
+5, The Fountainhead,350, fictional novel
+xxxxx,yyyy,yyy,,ffff,,ff
+6, Đại Việt Sử Ký Toàn Thư, 350, history
+10, Case Closed, 900, mystery-thriller
+11, Strange Stories from a Chinese Studio, 850,talk studio strange tales, Bồ Tùng Linh
+13, Thu thập các sáng tác của Khuê, 266666666666666666
+31,Đại Nam Thực Lục (tái bản 2020),    450,history

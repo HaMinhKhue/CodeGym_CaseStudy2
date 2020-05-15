@@ -1,0 +1,4 @@
+7,samsung,700
+12,Zeuslap,750
+10,macbook,800
+8,MSI,900
